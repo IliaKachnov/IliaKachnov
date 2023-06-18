@@ -47,16 +47,6 @@ I am Frontend Developer
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
-
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-</div>
-
 ---
 
 
