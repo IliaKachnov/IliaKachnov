@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Topalovic
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilia Kachnov
 ========================================================================================================================================
 
-I am Front End developer.
+I am Frontend developer.
 --------------------------
 
-*   🌍  I'm based in Belgrade, Serbia
+*   🌍  I'm based in Novi Sad, Serbia
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
