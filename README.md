@@ -9,7 +9,7 @@ I am Frontend Developer
 --------------------------
 *   🌍  I'm based in Novi Sad, Serbia
 *   🖥️  See my last project <a target="_blank" rel="noreferrer" href='https://mujo-coffee-shop.vercel.app'>MUJO</a>
-*   🧠  Currently learning React
+*   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 
